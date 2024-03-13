@@ -1,4 +1,4 @@
-# Project Overview
+# Projects Overview
 Since some of my projects are not visible on GitHub, this list provides an overview of repositories in which I am substantially involved.
 
 
@@ -28,3 +28,9 @@ This bridge allows communication between ActivityPub instances and servers imple
 Information page about the iconet foundation. Everything is self-hosted and works with and without Javascript.
 
 **Laravel, PHP, Blade, node.js, webpack**
+
+
+## [Rational Decision Making Tool](https://github.com/M-Miller-42/rational-decision-making)
+WIP: A tool to find the best option by evaluating them under different criteria.
+
+**Vue.js, Vite, Node, Github Actions**
