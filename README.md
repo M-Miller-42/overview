@@ -25,7 +25,7 @@ This bridge allows communication between ActivityPub instances and servers imple
 
 
 ## [iconet Website](https://iconet-foundation.org)
-Information page about the iconet foundation. Everything is self-hosted and works with and without Javascript.
+Information page about the iconet foundation. The site works with and without Javascript and avoids requests to third parties.
 
 **Laravel, PHP, Blade, node.js, webpack**
 
